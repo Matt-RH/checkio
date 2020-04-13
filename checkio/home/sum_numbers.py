@@ -5,7 +5,7 @@ def sum_numbers(text: str) -> int:
     The text consists from numbers, spaces and english letters.
 
     Input: A string.
-    Output: An int. 
+    Output: An int.
     """
 
     array = text.split()
